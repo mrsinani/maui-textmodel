@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/maui-textmodel/copilot-chat/2b424ef0/sessions/14dbed1c-532c-4017-92eb-450d8321d9a7
+/.vs/maui-textmodel/CopilotIndices/17.13.444.19527/CodeChunks.db
+/.vs/maui-textmodel/CopilotIndices/17.13.444.19527/CodeChunks.db-shm
+/.vs/maui-textmodel/CopilotIndices/17.13.444.19527/CodeChunks.db-wal
+/.vs/maui-textmodel/CopilotIndices/17.13.444.19527/SemanticSymbols.db
+/.vs/maui-textmodel/CopilotIndices/17.13.444.19527/SemanticSymbols.db-shm
+/.vs/maui-textmodel/CopilotIndices/17.13.444.19527/SemanticSymbols.db-wal
+/.vs/maui-textmodel/DesignTimeBuild/.dtbcache.v2
+/.vs/maui-textmodel/FileContentIndex/5c26135e-0c1d-4968-a20f-ea8d7dff2402.vsidx
+/.vs/maui-textmodel/FileContentIndex/8779c8c9-835f-464c-be34-eb96488fe9a5.vsidx
+/.vs/maui-textmodel/FileContentIndex/cc1be876-0726-4724-800e-59d5346d7a5c.vsidx
+/.vs/maui-textmodel/FileContentIndex/e0b0b238-192c-46ad-96bc-c3f8048d01c0.vsidx
+/.vs/maui-textmodel/FileContentIndex/faf2c458-e156-41cb-8d3f-a5e6b7f24ecb.vsidx
+/.vs/maui-textmodel/v17/.suo
+/.vs/maui-textmodel/v17/.wsuo
+/.vs/maui-textmodel/v17/DocumentLayout.backup.json
+/.vs/maui-textmodel/v17/DocumentLayout.json
+/.vs/maui-textmodel/v17/workspaceFileList.bin
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/slnx.sqlite-journal
+/.vs/VSWorkspaceState.json
